@@ -1,0 +1,1 @@
+Download model "best_model.pt" of CLIPCap at: https://drive.google.com/drive/folders/1SwFyuba28ImHkL5dC7BP8nJ0JfTho55R?usp=sharing

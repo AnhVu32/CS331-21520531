@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+Pillow
+opencv-python
+numpy
+tensorflow
+keras
+transformers
+sentencepiece
+pycocoevalcap
+git+https://github.com/openai/CLIP.git

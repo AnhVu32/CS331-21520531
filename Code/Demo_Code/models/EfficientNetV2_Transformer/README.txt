@@ -1,0 +1,1 @@
+Download EfficientNetV2+Transformer model "BestModel.pth" & Vocabulary "vocabulary_data.pkl" at: https://drive.google.com/drive/folders/147T8H_m3gSzu1eGyaj9Bu7IN0ZsRnxTi?usp=sharing
